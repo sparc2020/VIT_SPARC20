@@ -32,12 +32,12 @@ Sl.No	Attribute	Values  - Initial Attribute Set
 
 After Feature Reduction:
 
-Frame size	
-Epoch time
-Complete length	
-Time since preceding frame in the TCP stream
-Time delta from earlier packet
-Coloring rule name
-Size
-File data
-TCP payload	
+1.Frame size	
+2.Epoch time
+3.Complete length	
+4.Time since preceding frame in the TCP stream
+5.Time delta from earlier packet
+6.Coloring rule name
+7.Size
+8.File data
+9.TCP payload	
