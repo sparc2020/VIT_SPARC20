@@ -41,3 +41,12 @@ After Feature Reduction:
 7.Size
 8.File data
 9.TCP payload	
+
+
+Free use of the VIT_SPARC20 dataset for academic research purposes is hereby granted in perpetuity. The authors have to cite the following paper that has the dataset’s details: .
+
+Ikram, Sumaiya Thaseen, Cherukuri, Aswani Kumar, Poorva, Babu, Ushasree, Pamidi Sai, Zhang, Yishuo, Liu, Xiao and Li, Gang. "Anomaly Detection Using XGBoost Ensemble of Deep Neural Network Models" Cybernetics and Information Technologies, vol.21, no.3, 2021, pp.175-188. https://doi.org/10.2478/cait-2020-0037
+
+For more information about the dataset and code, please contact the author,
+
+Dr.I.Sumaiya Thaseen, (isumaiyathaseen@vit.ac.in)
